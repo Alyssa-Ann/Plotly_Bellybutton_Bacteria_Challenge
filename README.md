@@ -20,7 +20,7 @@ The purpose of this project is to create an interactive dashboard to display the
 
 ## Results
 
-Below is a snapshot of the dashboard created to display volunteer information. The homepage has a dropdown menu to choose the volunteer's ID number. When a number is chosen, the volunteer's demographic information will be displayed as well as a few charts to chose their belly button bacteria breakdown. The full interactive dashboard can be found at ****ADD GITHUB PAGE 
+Below is a snapshot of the dashboard created to display volunteer information. The homepage has a dropdown menu to choose the volunteer's ID number. When a number is chosen, the volunteer's demographic information will be displayed as well as a few charts to chose their belly button bacteria breakdown. The full interactive dashboard can be found at https://alyssa-ann.github.io/Plotly_Bellybutton_Bacteria_Challenge/.
 
 
 ![Biodiversity_HomeScreen](https://user-images.githubusercontent.com/88064181/139515661-7010e293-21f2-40a0-9b5f-c03c28f4fa5a.png)
